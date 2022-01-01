@@ -10,7 +10,7 @@ These puzzles are part of the 10-day Python puzzle challenge from finxter. All t
 * puzzle 4 -- https://app.finxter.com/learn/computer/science/510
 * puzzle 5 -- https://app.finxter.com/learn/computer/science/508
 * puzzle 6 -- https://app.finxter.com/learn/computer/science/332
-* puzzle 7 -- 
-* puzzle 8 -- 
+* puzzle 7 -- https://app.finxter.com/learn/computer/science/505
+* puzzle 8 -- https://app.finxter.com/learn/computer/science/521
 * puzzle 9 -- 
 * puzzle 10 -- 
