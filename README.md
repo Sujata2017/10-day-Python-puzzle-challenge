@@ -16,3 +16,5 @@ These puzzles are part of the 10-day Python puzzle challenge from finxter. All t
 * puzzle 8 -- https://app.finxter.com/learn/computer/science/521
 * puzzle 9 -- https://app.finxter.com/learn/computer/science/491
 * puzzle 10 -- https://app.finxter.com/learn/computer/science/407
+
+
